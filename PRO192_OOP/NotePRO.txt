@@ -1,0 +1,11 @@
+1. Download Main.Class, di chuyển Maim.Class vào src (SE19XXXX_TenSinhVien\Q1\src), trong src đã có Bike.java khi tạo Project.
+2. Click chuột phải vào Project chọn Properties:
+2.1. Chọn Run, trong ô Main Class điền Main
+2.2. Chọn Libraries, Classpath chọn "+", rùi chọn Add JAR/Forder, rùi chọn src của Q1, rùi bấm Open.
+3. Run Project là okay.
+
+Discussion: 
++ Evidence (research paper, from credibale books, ppt, website)
++ Express ur pov on each evidence
++ References
++ Conclussion

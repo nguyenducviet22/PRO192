@@ -1,0 +1,4 @@
+1, Nguyen Anh, 9.5
+2, Tran Binh, 9.1
+3, Le Cao, 8.6
+4, Pham Duong, 9.7
